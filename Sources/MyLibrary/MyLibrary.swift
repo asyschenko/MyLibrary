@@ -5,4 +5,8 @@ public struct MyLibrary {
 
     public init() {
     }
+
+    public func f() {
+        print("ff")
+    }
 }
